@@ -2,6 +2,7 @@
 *.tfstate
 *.tfstate.*
 .terraform/
+terraform.tfvars
 
 # Private SSH Keys
 *.pem
@@ -12,3 +13,4 @@
 
 # VSCode Settings (falls vorhanden)
 .vscode/
+
