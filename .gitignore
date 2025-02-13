@@ -1,0 +1,14 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Private SSH Keys
+*.pem
+
+# AWS Credentials
+.aws/
+*.env
+
+# VSCode Settings (falls vorhanden)
+.vscode/
